@@ -1,0 +1,17 @@
+com/javasampleapproach/kafka/controllers/SpartanRestController.class
+com/javasampleapproach/kafka/services/KafkaConsumer.class
+com/javasampleapproach/kafka/SpringKafkaSendConsumeJavaObjectApplication.class
+com/javasampleapproach/kafka/model/User.class
+com/javasampleapproach/kafka/config/KafkaProducerConfig.class
+com/javasampleapproach/kafka/services/KafkaGitConsumer.class
+com/javasampleapproach/kafka/config/KafkaConsumerConfig.class
+com/javasampleapproach/kafka/services/KafkaCMConsumer.class
+com/javasampleapproach/kafka/controllers/ResultSetSerializer.class
+com/javasampleapproach/kafka/services/KafkaProducer.class
+com/javasampleapproach/kafka/services/KafkaChannelConsumer.class
+com/javasampleapproach/kafka/model/Channel.class
+com/javasampleapproach/kafka/model/GitStuff.class
+com/javasampleapproach/kafka/services/KafkaDMConsumer.class
+com/javasampleapproach/kafka/controllers/KafkaController.class
+com/javasampleapproach/kafka/model/ChannelMessage.class
+com/javasampleapproach/kafka/model/Message.class

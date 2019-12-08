@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="114abf90-7b14-47d3-be64-262e98523820" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SpringKafkaSendConsumeJavaObject" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="834" />
+  </component>
+  <component name="ProjectId" id="1THlBKh1dWZHN8EwzFGSyiXCYGg" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573640016194" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BackendSpring" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SpringKafkaSendConsumeJavaObjectApplication">
+    <configuration name="SpringKafkaSendConsumeJavaObjectApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javasampleapproach.kafka.SpringKafkaSendConsumeJavaObjectApplication" />
+      <module name="SpringKafkaSendConsumeJavaObject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javasampleapproach.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringKafkaSendConsumeJavaObjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringKafkaSendConsumeJavaObject" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.javasampleapproach.kafka.SpringKafkaSendConsumeJavaObjectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringKafkaSendConsumeJavaObjectApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="114abf90-7b14-47d3-be64-262e98523820" name="Default Changelist" comment="" />
+      <created>1573124764812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573124764812</updated>
+      <workItem from="1573124769269" duration="13044000" />
+      <workItem from="1573256962873" duration="30047000" />
+      <workItem from="1573351471454" duration="15285000" />
+      <workItem from="1573366956615" duration="30000" />
+      <workItem from="1573367013096" duration="28000" />
+      <workItem from="1573367124243" duration="418000" />
+      <workItem from="1573367620030" duration="22000" />
+      <workItem from="1573769674837" duration="660000" />
+      <workItem from="1573880418496" duration="2621000" />
+      <workItem from="1573883950583" duration="785000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
